@@ -10,7 +10,7 @@
     "iconUrl": "https://farcasteraih.app/icon.png",
     "splashImageUrl": "https://farcasteraih.app/splash.png",
     "splashBackgroundColor": "#0a1929",
-    "homeUrl": "https://farcasteraih.app",
-    "webhookUrl": "https://farcasteraih.app/api/minikit-webhook"
+    "homeUrl": "https://app-754a614b-8xks.vercel.app",
+    "webhookUrl": "https://app-754a614b-8xks.vercel.app/api/webhook"
   }
 }
